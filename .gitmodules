@@ -1,0 +1,3 @@
+[submodule "vendor/whmcs-sdk"]
+	path = vendor/whmcs-sdk
+	url = git://github.com/dmyers/whmcs-php.git
