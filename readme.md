@@ -12,7 +12,7 @@ A super simple WHMCS package for Fuel.
 
 If you are installing this as a submodule (recommended) in your git repo root, run this command:
 
-	$ git submodule add git://whmcs.com/dmyers/fuel-whmcs.git fuel/packages/whmcs
+	$ git submodule add git://github.com/dmyers/fuel-whmcs.git fuel/packages/whmcs
 
 Then you you need to initialize and update the submodule:
 
