@@ -28,6 +28,13 @@ return array(
 	'api_password' => md5('your_pass'),
 	
 	/**
+	 * api_access_key - The api access key to use for api requests.
+	 *
+	 * Leave this empty to disable api access key
+	 */
+	'api_access_key' => '',
+	
+	/**
 	 * auto_auth - The auto auth key to use for authenticating to whmcs.
 	 *
 	 * Leave this empty to disable auto auth
