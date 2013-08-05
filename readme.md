@@ -4,6 +4,7 @@ A super simple WHMCS package for Fuel.
 
 ## About
 * Version: 1.0.0
+* License: MIT License
 * Author: Derek Myers
 
 ## Installation
